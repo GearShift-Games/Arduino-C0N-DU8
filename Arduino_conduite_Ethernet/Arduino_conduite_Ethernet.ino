@@ -10,7 +10,7 @@ unsigned long monChronoMessages;
 EthernetUDP myUdp;
 
 IPAddress myDestinationIp(192, 168, 1, 157);
-unsigned int myDestinationPort = 8001;
+unsigned int myDestinationPort = 8004;
 
 IPAddress myIp(192, 168, 1, 215);
 unsigned int myPort = 7000;
